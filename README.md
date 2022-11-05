@@ -3,7 +3,7 @@ Merge Sort ödevi ->
 [Patika.dev](https://app.patika.dev)
 
 # [16,21,11,8,12,22] -> Merge Sort
-# Yukaridaki dizinin sort türüne göre aşamalarını yazınız.
+# Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 ```
       [16,21,11,8,12,22]
    [16,21,11]   [8,12,22]
